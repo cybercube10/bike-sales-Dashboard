@@ -4,9 +4,9 @@
 This project presents an interactive dashboard created using Microsoft Excel to visualize bike sales data. The dashboard provides insights into customer demographics, purchasing patterns, and sales performance.
 
 ## Project Features
-- **Purchase Analysis**: Visual representation of average purchases by gender and salary.
-- **Customer Demographics**: Charts showing customer age brackets and marital status distribution.
-- **Sales Trends**: Line charts depicting sales trends over time.
+- **Purchase Analysis**: Visual representation of average purchases by gender and salary, purchases by customer age bracket and customer commute.
+- **Customer Demographics**: Charts showing customer age, marital status, Region by Education.
+- **Sales Trends**: Line charts depicting sales trends over customer Bracket and Customer Commute.
 
 ## Tools Used
 - Microsoft Excel
